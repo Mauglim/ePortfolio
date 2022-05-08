@@ -10,3 +10,5 @@ Evidence is provided here of the following objectives:
   - Add evidence here
 5. Define and demonstrate conflict management and resolution strategies
   - A task given to students of COIT11239 during Week04 was to complete a Conflict Roleplay. The roleplay was to take place with groups of 2, as we were to understand the scenario and answer to the best of our abilities how we'd approach the issues and resolve them. [Conflict Roleplay](Wk4%20Conflict%20Scenario%20Finished.docx)
+
+https://github.com/Mauglim/ePortfolio
